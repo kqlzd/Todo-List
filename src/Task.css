@@ -1,0 +1,14 @@
+.tasklar {
+  border: solid white 3px;
+  height: 120px;
+  width: 350px;
+  text-align: center;
+  margin-top: 10;
+  background-color: rgb(207, 218, 253);
+  border-radius: 8px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  overflow: hidden;
+  word-wrap: break-word;
+  margin-left: 15px;
+}
